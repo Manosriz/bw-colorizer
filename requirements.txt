@@ -1,3 +1,8 @@
 streamlit>=1.37
-opencv-python-headless>=4.9
+opencv-python-headless>=4.10.0.84
 numpy>=1.23
+torch>=2.2
+torchvision>=0.17
+fastai==1.0.61
+deoldify==0.6.0
+Pillow>=9.5
